@@ -12,6 +12,8 @@ This project is still a WIP and the silkscreen is rather confusing.
 In order to use a wired version with rotary encoder, it would be required
 to mount the TRRS Jack underneath or to put the encoder on top of it.
 The rotary encoder's side legs must be snapped off to fit flush with the PCB.
+Also, the TRRS jack has 2 plastic bits that ordinarily go into the PCB for alignment,
+however the first plastic bit has to be shaved off because the hole for it was removed.
 
 Projects refrenced: Klor, Ferris Sweep, Corne Cherry v2.2
 
