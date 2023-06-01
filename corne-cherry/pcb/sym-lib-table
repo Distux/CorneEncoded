@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "corne-cherry-rescue")(type "KiCad")(uri "${KIPRJMOD}/corne-cherry-rescue.kicad_sym")(options "")(descr ""))
-  (lib (name "KLORlib")(type "KiCad")(uri "C:/Users/kalea/OneDrive/Documents/GitHub/KLOR/PCB/klor1_3/KLORlib.kicad_sym")(options "")(descr ""))
-)

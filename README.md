@@ -1,6 +1,6 @@
 # Corne Encoded
 
-A spinoff (pun intended) of Corne v2.2. It has the following changes
+A spinoff (pun intended) of Corne Cherry v2.2. It has the following changes
 made to it from the original (description below):
 - Added rotary encoder support
 - Battery switch and terminals
@@ -13,12 +13,12 @@ In order to use a wired version with rotary encoder, it would be required
 to mount the TRRS Jack underneath or to put the encoder on top of it.
 The rotary encoder's side legs must be snapped off to fit flush with the PCB.
 
-Projects refrenced: Klor, Ferris Sweep, Corne v2.2
+Projects refrenced: Klor, Ferris Sweep, Corne Cherry v2.2
 
-Image of v1 of pcb
+## Image of v1 of pcb
 ![pcb_1](https://raw.githubusercontent.com/Distux/CorneEncoded/main/imgs/pcbv1.png)
 
-# The Original Corne keyboard
+## The Original Corne keyboard
 
 The Corne keyboard is a split keyboard with 3x6 column staggered keys
 and 3 thumb keys, based on [Helix](https://github.com/MakotoKurauchi/helix).
