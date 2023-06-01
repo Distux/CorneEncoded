@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KLOR")(type "KiCad")(uri "C:/Users/kalea/OneDrive/Documents/GitHub/KLOR/PCB/klor1_3/KLOR.pretty")(options "")(descr ""))
+  (lib (name "Crbkd footprints")(type "KiCad")(uri "C:/Users/kalea/Downloads/Crbkd footprints/Library.pretty")(options "")(descr ""))
+  (lib (name "pcb")(type "KiCad")(uri "C:/Users/kalea/Downloads/crkbd-corne-cherry-v2.1.0/crkbd-corne-cherry-v2.1.0/corne-cherry/pcb.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/kalea/Downloads/Crbkd footprints/Library.pretty")(options "")(descr ""))
+)
