@@ -15,6 +15,9 @@ The rotary encoder's side legs must be snapped off to fit flush with the PCB.
 
 Projects refrenced: Klor, Ferris Sweep, Corne v2.2
 
+Image of v1 of pcb
+![pcb_1](https://raw.githubusercontent.com/Distux/CorneEncoded/main/imgs/pcbv1.png)
+
 # The Original Corne keyboard
 
 The Corne keyboard is a split keyboard with 3x6 column staggered keys
