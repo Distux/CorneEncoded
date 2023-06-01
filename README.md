@@ -5,6 +5,7 @@ made to it from the original (description below):
 - Added rotary encoder support
 - Battery switch and terminals
 - Changed end thumb key to 1.25u
+- Repositioned mounting holes of microcontroller protective plate
 - Visual changes
 
 This project is still a WIP and the silkscreen is rather confusing.
