@@ -9,6 +9,11 @@ It has the following changes:
 - Assembly changes (see build guide)
 
 Projects referenced: Klor, Ferris Sweep, Corne Cherry v2.1
+## Issues
+- Rotary encoder button not wired correctly
+- Button not reversible
+- Rotary encoder silkscreen not reversible
+  
 ## Production
 JLCPCB is recommended, if you produce the gerbers from this [project link](https://oshwlab.com/dungeonstag/corne-encoded) you can save 8$ off your order. The Kicad files are of an older version and will not be updated.
 
