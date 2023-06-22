@@ -1,21 +1,16 @@
 # Corne Encoded
-
-A spinoff (pun intended) of Corne Cherry v2.2. It has the following changes
-made to it from the original (description below):
+A spinoff (pun intended) of Corne Cherry v2.1. The Corne Cherry 2.1 is a reversible hotswap ortholinear split keyboard pcb.
+It has the following changes:
 - Added rotary encoder support
-- Battery switch and terminals
-- Changed end thumb key to 1.25u
-- Repositioned mounting holes of microcontroller protective plate
-- Visual changes
+- Battery switch (MSK12C02) and terminals
+- Moved upper OLED mounting hole down by 1.011mm
+- Silkscreen changes
+- Change reset to SKRTLAE010
+- Assembly changes (see build guide)
 
-This project is still a WIP and the silkscreen is rather confusing.
-In order to use a wired version with rotary encoder, it would be required
-to mount the TRRS Jack underneath or to put the encoder on top of it.
-The rotary encoder's side legs must be snapped off to fit flush with the PCB.
-Also, the TRRS jack has 2 plastic bits that ordinarily go into the PCB for alignment,
-however the first plastic bit has to be shaved off because the hole for it was removed.
-
-Projects refrenced: Klor, Ferris Sweep, Corne Cherry v2.2
+Projects referenced: Klor, Ferris Sweep, Corne Cherry v2.1
+## Production
+JLCPCB is recommended, if you produce the gerbers from this [project link](https://oshwlab.com/dungeonstag/corne-encoded) you can save 8$ off your order. The Kicad files are of an older version and will not be updated.
 
 ## Image of v1 of pcb
 ![pcb_1](https://raw.githubusercontent.com/Distux/CorneEncoded/main/imgs/pcbv1.png)
@@ -25,6 +20,12 @@ Projects refrenced: Klor, Ferris Sweep, Corne Cherry v2.2
 The Corne keyboard is a split keyboard with 3x6 column staggered keys
 and 3 thumb keys, based on [Helix](https://github.com/MakotoKurauchi/helix).
 Crkbd stands for Corne Keyboard.
+## Future Changes
+- Add 5th hole for Nice!View support
+- Add cool design to silkscreen or delete it all for minimalism
+- Rewire LEDS for MINI-E support
+- Add power cutoff for LEDs
+- Move/add support for JST proper JST housing.
 
 ## Lineup
 - corne-cherry
