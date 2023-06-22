@@ -18,7 +18,8 @@ Projects referenced: Klor, Ferris Sweep, Corne Cherry v2.1
 JLCPCB is recommended, if you produce the gerbers from this [project link](https://oshwlab.com/dungeonstag/corne-encoded) you can save 8$ off your order. The Kicad files are of an older version and will not be updated.
 
 ## Image of v1 of pcb
-![pcb_1](https://raw.githubusercontent.com/Distux/CorneEncoded/main/imgs/pcbv1.png)
+![pcb_1](https://raw.githubusercontent.com/Distux/CorneEncoded/main/imgs/pcbv1jlc.png)
+![pcb_prod](https://raw.githubusercontent.com/Distux/CorneEncoded/main/imgs/pcb_make_soldered.png)
 
 ## The Original Corne keyboard
 
