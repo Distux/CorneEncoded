@@ -3,16 +3,13 @@ A spinoff (pun intended) of Corne Cherry v2.1. The Corne Cherry 2.1 is a reversi
 It has the following changes:
 - Added rotary encoder support
 - Battery switch (MSK12C02) and terminals
-- Moved upper OLED mounting hole down by 1.011mm
 - Silkscreen changes
-- Change reset to SKRTLAE010
+- Change reset to SKRTLAE010 (sideways button)
 - Assembly changes (see build guide)
 
 Projects referenced: Klor, Ferris Sweep, Corne Cherry v2.1
 ## Issues
-- Rotary encoder button not wired correctly
-- Button not reversible
-- Rotary encoder silkscreen not reversible
+- designed for fun, not for production
   
 ## Production
 JLCPCB is recommended, if you produce the gerbers from this [project link](https://oshwlab.com/dungeonstag/corne-encoded) you can save 8$ off your order. The Kicad files are of an older version and will not be updated.
@@ -26,6 +23,7 @@ JLCPCB is recommended, if you produce the gerbers from this [project link](https
 The Corne keyboard is a split keyboard with 3x6 column staggered keys
 and 3 thumb keys, based on [Helix](https://github.com/MakotoKurauchi/helix).
 Crkbd stands for Corne Keyboard.
+
 ## Future Changes
 - Add 5th hole for Nice!View support
 - Add cool design to silkscreen or delete it all for minimalism
@@ -33,11 +31,7 @@ Crkbd stands for Corne Keyboard.
 - Add power cutoff for LEDs
 - Move/add support for JST proper JST housing.
 
-## Lineup
-- corne-cherry
-  ([JP](corne-cherry/doc/buildguide_jp.md)/[EN](corne-cherry/doc/buildguide_en.md))
-  ([tilting, JP](corne-cherry/doc/v2/buildguide_tilting_tenting_plate_jp.md)/[tilting, EN](corne-cherry/doc/v2/buildguide_tilting_tenting_plate_en.md)):
-  Hotswappable Corne for Cherry MX switches by kailh PCB sockets.
+## Images
 
 ## Photos
 
